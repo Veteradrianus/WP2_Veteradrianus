@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Tampil Data Matakuliah</title>
+    <title>Tampil Data Matakukiah</title>
 </head>
 <body>
     <center>
@@ -43,8 +43,8 @@
 ?>">Kembali</a>
                 </td>
             </tr>
-         </table>
-     </center>
+        </table>
+    </center>
 </body>
 
 </html>
