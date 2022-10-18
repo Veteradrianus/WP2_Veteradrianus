@@ -99,7 +99,7 @@ CREATE TABLE `role` (
 --
 
 INSERT INTO `role` (`id`, `role`) VALUES
-(1, 'admministrator'),
+(1, 'administrator'),
 (2, 'member');
 
 -- --------------------------------------------------------
